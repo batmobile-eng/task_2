@@ -11,9 +11,10 @@ This project aims to develop a Python-based system for tracking resource allocat
 * **Efficiency Monitoring:** Identifies tasks that might be under or over-utilizing resources.
 * **Visualization:**
     * Bar charts to visualize resource usage by each task.
- 
+      ![Image](https://github.com/user-attachments/assets/9ab90310-bd58-4dcf-b2c3-686d224cbf85)
 
     * Pie chart to show the distribution of resources across tasks.
+     ![Image](https://github.com/user-attachments/assets/97d78dc6-438a-4ecf-a5ac-259ca1b8e43e)
 
 ## Usage
 
